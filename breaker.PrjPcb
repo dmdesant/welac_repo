@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BEAVRYPB
 
 [Document4]
-DocumentPath=..\..\..\..\..\Public\Documents\SnapEDA Altium Plugin\libraries\ESP8266-12\ESP8266-12E_ESP-12E.PcbLib
+DocumentPath=MB398B1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GMIVLSFD
+DocumentUniqueId=DFGJKUHE
 
 [Document5]
 DocumentPath=..\..\..\..\..\Public\Documents\SnapEDA Altium Plugin\libraries\ESP8266-12\ESP8266-12E_ESP-12E.SchLib
@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
 [Document6]
-DocumentPath=MB398B1.SchLib
+DocumentPath=..\..\..\..\..\Public\Documents\SnapEDA Altium Plugin\libraries\ESP8266-12\ESP8266-12E_ESP-12E.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DFGJKUHE
+DocumentUniqueId=GMIVLSFD
 
 [Document7]
 DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD20\Library\Miscellaneous Devices\Miscellaneous Devices.PcbLib
@@ -206,6 +206,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document11]
+DocumentPath=breaker.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CHPOVOML
 
 [Configuration1]
 Name=Sources
